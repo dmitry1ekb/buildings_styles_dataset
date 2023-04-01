@@ -24,8 +24,8 @@ If you use this dataset in your research or project, please credit the source by
 
 ```bibtex
 @misc{building-dataset,
-  author       = {Your Name},
+  author       = {BLESSED GANG},
   title        = {Dataset of Buildings in Different Architectural Styles},
-  howpublished = {\url{https://github.com/your/repo}},
-  year         = {YYYY}
+  howpublished = {\url{[https://github.com/your/repo](https://github.com/dmitry1ekb/buildings_styles_dataset)}},
+  year         = {2023}
 }
